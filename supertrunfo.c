@@ -10,5 +10,5 @@ int main(){
     int turismo;
 
     printf(" Digite o estado ");
-    scanf(" %s estado ");
+    scanf(" %c , &estado");
 }
